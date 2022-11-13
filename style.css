@@ -1,0 +1,9 @@
+img{
+    height: 600px;
+}
+nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: greenyellow;
+    font-style: inherit;
+    font-feature-settings: "abvm";
+}
